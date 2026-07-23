@@ -1,0 +1,473 @@
+{
+  "date": "2026-06-29",
+  "pages": [
+    {
+      "took": 1849,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 5,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-031117:forms-4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002052162",
+                "0002016561"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-294660",
+                "333-294660-01"
+              ],
+              "display_names": [
+                "Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)",
+                "Old Glory Holding Co  (CIK 0002016561)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-29",
+              "biz_states": [
+                "NJ",
+                "GA"
+              ],
+              "sics": [
+                "6022",
+                "6029"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001493152-26-031117",
+              "film_num": [
+                "261136914",
+                "261136915"
+              ],
+              "biz_locations": [
+                "Princeton, NJ",
+                "Atlanta, GA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "E9",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782691200000,
+              "0001493152-26-031117:forms-4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001437749-26-021967:fsbw20260623_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001530249"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297108"
+              ],
+              "display_names": [
+                "FS Bancorp, Inc.  (FSBW)  (CIK 0001530249)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-29",
+              "biz_states": [
+                "WA"
+              ],
+              "sics": [
+                "6036"
+              ],
+              "form": "S-4",
+              "adsh": "0001437749-26-021967",
+              "film_num": [
+                "261135037"
+              ],
+              "biz_locations": [
+                "Mountlake Terrace, WA"
+              ],
+              "file_type": "S-4",
+              "file_description": "FORM S-4",
+              "inc_states": [
+                "WA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782691200000,
+              "0001437749-26-021967:fsbw20260623_s4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-026757:ny20076479x1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000906107"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297128"
+              ],
+              "display_names": [
+                "EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-29",
+              "biz_states": [
+                "IL"
+              ],
+              "sics": [
+                "6798"
+              ],
+              "form": "S-4",
+              "adsh": "0001140361-26-026757",
+              "film_num": [
+                "261136859"
+              ],
+              "biz_locations": [
+                "Chicago, IL"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "MD"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782691200000,
+              "0001140361-26-026757:ny20076479x1_s4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-078605:tm2612953d50_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-06-29",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-078605",
+              "film_num": [
+                "261131691"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782691200000,
+              "0001104659-26-078605:tm2612953d50_sctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-078510:tm2617977d3_sctot.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001806201",
+                "0002113612"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-91538"
+              ],
+              "display_names": [
+                "Open Lending Corp  (LPRO)  (CIK 0001806201)",
+                "ANV Group Holdings Ltd.  (CIK 0002113612)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-06-29",
+              "biz_states": [
+                "TX",
+                "NY"
+              ],
+              "sics": [
+                "6141"
+              ],
+              "form": "SC TO-T",
+              "adsh": "0001104659-26-078510",
+              "film_num": [
+                "261131425"
+              ],
+              "biz_locations": [
+                "Austin, TX",
+                "New York, NY"
+              ],
+              "file_type": "SC TO-T",
+              "file_description": "SC TO-T",
+              "inc_states": [
+                "X0"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782691200000,
+              "0001104659-26-078510:tm2617977d3_sctot.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "ANV Group Holdings Ltd.  (CIK 0002113612)",
+              "doc_count": 1
+            },
+            {
+              "key": "DIANA SHIPPING INC.  (CIK 0001318885)",
+              "doc_count": 1
+            },
+            {
+              "key": "Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)",
+              "doc_count": 1
+            },
+            {
+              "key": "EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)",
+              "doc_count": 1
+            },
+            {
+              "key": "FS Bancorp, Inc.  (FSBW)  (CIK 0001530249)",
+              "doc_count": 1
+            },
+            {
+              "key": "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+              "doc_count": 1
+            },
+            {
+              "key": "Old Glory Holding Co  (CIK 0002016561)",
+              "doc_count": 1
+            },
+            {
+              "key": "Open Lending Corp  (LPRO)  (CIK 0001806201)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "4412",
+              "doc_count": 1
+            },
+            {
+              "key": "6022",
+              "doc_count": 1
+            },
+            {
+              "key": "6029",
+              "doc_count": 1
+            },
+            {
+              "key": "6036",
+              "doc_count": 1
+            },
+            {
+              "key": "6141",
+              "doc_count": 1
+            },
+            {
+              "key": "6798",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "NY",
+              "doc_count": 2
+            },
+            {
+              "key": "GA",
+              "doc_count": 1
+            },
+            {
+              "key": "IL",
+              "doc_count": 1
+            },
+            {
+              "key": "J3",
+              "doc_count": 1
+            },
+            {
+              "key": "NJ",
+              "doc_count": 1
+            },
+            {
+              "key": "TX",
+              "doc_count": 1
+            },
+            {
+              "key": "WA",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 3
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 2
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-06-29",
+                    "lte": "2026-06-29"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

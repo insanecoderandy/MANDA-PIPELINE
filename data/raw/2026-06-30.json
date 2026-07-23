@@ -1,0 +1,451 @@
+{
+  "date": "2026-06-30",
+  "pages": [
+    {
+      "took": 1486,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 5,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001214659-26-007963:v629260s4a2.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001104038"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295079"
+              ],
+              "display_names": [
+                "VerifyMe, Inc.  (VRME)  (CIK 0001104038)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-30",
+              "biz_states": [
+                "FL"
+              ],
+              "sics": [
+                "6199"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001214659-26-007963",
+              "film_num": [
+                "261141788"
+              ],
+              "biz_locations": [
+                "Lake Mary, FL"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "AMENDMENT NO. 2",
+              "inc_states": [
+                "NV"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782777600000,
+              "0001214659-26-007963:v629260s4a2.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-290449:d117787ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002130606"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295249"
+              ],
+              "display_names": [
+                "Gazelle Parent, Inc.  (OBX)  (CIK 0002130606)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-30",
+              "biz_states": [
+                "MA"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-290449",
+              "film_num": [
+                "261140428"
+              ],
+              "biz_locations": [
+                "Cambridge, MA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A NO. 3",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782777600000,
+              "0001193125-26-290449:d117787ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001185185-26-002745:bldcs4a3061126.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002097508",
+                "0001910992"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-291994",
+                "333-291994-01"
+              ],
+              "display_names": [
+                "Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)",
+                "Blockfusion USA, Inc.  (CIK 0001910992)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-30",
+              "biz_states": [
+                "NY"
+              ],
+              "sics": [
+                "7374"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001185185-26-002745",
+              "film_num": [
+                "261141460",
+                "261141461"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Niagara Falls, NY"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "FORM S-4/A",
+              "inc_states": [
+                "DE",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782777600000,
+              "0001185185-26-002745:bldcs4a3061126.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-079410:tm2619439d1_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-06-30",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-079410",
+              "film_num": [
+                "261141664"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782777600000,
+              "0001104659-26-079410:tm2619439d1_sctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-079004:tm2613040d1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001865200"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297140"
+              ],
+              "display_names": [
+                "Angel Studios, Inc.  (ANGX)  (CIK 0001865200)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-30",
+              "biz_states": [
+                "UT"
+              ],
+              "sics": [
+                "7812"
+              ],
+              "form": "S-4",
+              "adsh": "0001104659-26-079004",
+              "film_num": [
+                "261137763"
+              ],
+              "biz_locations": [
+                "Provo, UT"
+              ],
+              "file_type": "S-4",
+              "file_description": "FORM S-4",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782777600000,
+              "0001104659-26-079004:tm2613040d1_s4.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Angel Studios, Inc.  (ANGX)  (CIK 0001865200)",
+              "doc_count": 1
+            },
+            {
+              "key": "Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)",
+              "doc_count": 1
+            },
+            {
+              "key": "Blockfusion USA, Inc.  (CIK 0001910992)",
+              "doc_count": 1
+            },
+            {
+              "key": "DIANA SHIPPING INC.  (CIK 0001318885)",
+              "doc_count": 1
+            },
+            {
+              "key": "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+              "doc_count": 1
+            },
+            {
+              "key": "Gazelle Parent, Inc.  (OBX)  (CIK 0002130606)",
+              "doc_count": 1
+            },
+            {
+              "key": "VerifyMe, Inc.  (VRME)  (CIK 0001104038)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2834",
+              "doc_count": 1
+            },
+            {
+              "key": "4412",
+              "doc_count": 1
+            },
+            {
+              "key": "6199",
+              "doc_count": 1
+            },
+            {
+              "key": "7374",
+              "doc_count": 1
+            },
+            {
+              "key": "7812",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "NY",
+              "doc_count": 2
+            },
+            {
+              "key": "FL",
+              "doc_count": 1
+            },
+            {
+              "key": "J3",
+              "doc_count": 1
+            },
+            {
+              "key": "MA",
+              "doc_count": 1
+            },
+            {
+              "key": "UT",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 4
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 1
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-06-30",
+                    "lte": "2026-06-30"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

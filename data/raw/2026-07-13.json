@@ -1,0 +1,609 @@
+{
+  "date": "2026-07-13",
+  "pages": [
+    {
+      "took": 74,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 7,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-033041:forms-4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002026767",
+                "0002129752"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296926",
+                "333-296926-01"
+              ],
+              "display_names": [
+                "Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)",
+                "Goodvision AI Inc.  (CIK 0002129752)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "NY",
+                "CA"
+              ],
+              "sics": [
+                "7374",
+                "6770"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001493152-26-033041",
+              "film_num": [
+                "261171680",
+                "261171681"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Fremont, CA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "E9",
+                "E9"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001493152-26-033041:forms-4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-032942:forms-4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001846416",
+                "0002096204"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-292440",
+                "333-292440-01"
+              ],
+              "display_names": [
+                "Hennessy Capital Investment Corp. VII  (HVII, HVIIR, HVIIU)  (CIK 0001846416)",
+                "ONE Nuclear Energy LLC  (CIK 0002096204)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "NV",
+                "FL"
+              ],
+              "sics": [
+                "4911"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001493152-26-032942",
+              "film_num": [
+                "261170062",
+                "261170063"
+              ],
+              "biz_locations": [
+                "Zephyr Cove, NV",
+                "West Palm Beach, FL"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "DE",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001493152-26-032942:forms-4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001437749-26-023438:fsbw20260709_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001530249"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297108"
+              ],
+              "display_names": [
+                "FS Bancorp, Inc.  (FSBW)  (CIK 0001530249)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "WA"
+              ],
+              "sics": [
+                "6036"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001437749-26-023438",
+              "film_num": [
+                "261171698"
+              ],
+              "biz_locations": [
+                "Mountlake Terrace, WA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "FORM S-4/A",
+              "inc_states": [
+                "WA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001437749-26-023438:fsbw20260709_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193805-26-000963:e665646_sctot-shi.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000727346",
+                "0002077187"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-39496"
+              ],
+              "display_names": [
+                "SELECTIS HEALTH, INC.  (CIK 0000727346)",
+                "Black Pearl Equities LLC  (CIK 0002077187)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "CO",
+                "NY"
+              ],
+              "sics": [
+                "6798"
+              ],
+              "form": "SC TO-T",
+              "adsh": "0001193805-26-000963",
+              "film_num": [
+                "261171402"
+              ],
+              "biz_locations": [
+                "Greenwood Village, CO",
+                "Broolyn, NY"
+              ],
+              "file_type": "SC TO-T",
+              "file_description": null,
+              "inc_states": [
+                "UT",
+                "NY"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001193805-26-000963:e665646_sctot-shi.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-302124:d944435ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002092592",
+                "0002092032"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-294417",
+                "333-294417-01"
+              ],
+              "display_names": [
+                "Evernorth Holdings Inc.  (CIK 0002092592)",
+                "Pathfinder Digital Assets LLC  (CIK 0002092032)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "CA"
+              ],
+              "sics": [
+                "6221"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-302124",
+              "film_num": [
+                "261171981",
+                "261171982"
+              ],
+              "biz_locations": [
+                "San Francisco, CA",
+                "San Francisco, CA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "NV",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001193125-26-302124:d944435ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-028245:ny20075253x2_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000866829"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296508"
+              ],
+              "display_names": [
+                "HELIX ENERGY SOLUTIONS GROUP INC  (HLX)  (CIK 0000866829)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [
+                "1389"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001140361-26-028245",
+              "film_num": [
+                "261169674"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "MN"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001140361-26-028245:ny20075253x2_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-082921:tm2620296d1_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-13",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-082921",
+              "film_num": [
+                "261170134"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783900800000,
+              "0001104659-26-082921:tm2620296d1_sctota.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Black Pearl Equities LLC  (CIK 0002077187)",
+              "doc_count": 1
+            },
+            {
+              "key": "Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)",
+              "doc_count": 1
+            },
+            {
+              "key": "DIANA SHIPPING INC.  (CIK 0001318885)",
+              "doc_count": 1
+            },
+            {
+              "key": "Evernorth Holdings Inc.  (CIK 0002092592)",
+              "doc_count": 1
+            },
+            {
+              "key": "FS Bancorp, Inc.  (FSBW)  (CIK 0001530249)",
+              "doc_count": 1
+            },
+            {
+              "key": "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+              "doc_count": 1
+            },
+            {
+              "key": "Goodvision AI Inc.  (CIK 0002129752)",
+              "doc_count": 1
+            },
+            {
+              "key": "HELIX ENERGY SOLUTIONS GROUP INC  (HLX)  (CIK 0000866829)",
+              "doc_count": 1
+            },
+            {
+              "key": "Hennessy Capital Investment Corp. VII  (HVII, HVIIR, HVIIU)  (CIK 0001846416)",
+              "doc_count": 1
+            },
+            {
+              "key": "ONE Nuclear Energy LLC  (CIK 0002096204)",
+              "doc_count": 1
+            },
+            {
+              "key": "Pathfinder Digital Assets LLC  (CIK 0002092032)",
+              "doc_count": 1
+            },
+            {
+              "key": "SELECTIS HEALTH, INC.  (CIK 0000727346)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "1389",
+              "doc_count": 1
+            },
+            {
+              "key": "4412",
+              "doc_count": 1
+            },
+            {
+              "key": "4911",
+              "doc_count": 1
+            },
+            {
+              "key": "6036",
+              "doc_count": 1
+            },
+            {
+              "key": "6221",
+              "doc_count": 1
+            },
+            {
+              "key": "6770",
+              "doc_count": 1
+            },
+            {
+              "key": "6798",
+              "doc_count": 1
+            },
+            {
+              "key": "7374",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "NY",
+              "doc_count": 3
+            },
+            {
+              "key": "CA",
+              "doc_count": 2
+            },
+            {
+              "key": "CO",
+              "doc_count": 1
+            },
+            {
+              "key": "FL",
+              "doc_count": 1
+            },
+            {
+              "key": "J3",
+              "doc_count": 1
+            },
+            {
+              "key": "NV",
+              "doc_count": 1
+            },
+            {
+              "key": "TX",
+              "doc_count": 1
+            },
+            {
+              "key": "WA",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 5
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 2
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-13",
+                    "lte": "2026-07-13"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

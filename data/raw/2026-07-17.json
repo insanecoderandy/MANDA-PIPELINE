@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-17",
+  "pages": [
+    {
+      "took": 2035,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 4,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-028733:ny20077391x2_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000320017",
+                "0002117902"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-34343"
+              ],
+              "display_names": [
+                "LISATA THERAPEUTICS, INC.  (LSTA)  (CIK 0000320017)",
+                "Kuva Labs, Inc.  (CIK 0002117902)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-17",
+              "biz_states": [
+                "NJ",
+                "TX"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001140361-26-028733",
+              "film_num": [
+                "261181781"
+              ],
+              "biz_locations": [
+                "Basking Ridge, NJ",
+                "Houston, TX"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "DE",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1784246400000,
+              "0001140361-26-028733:ny20077391x2_sctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-084686:tm2620547-1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001746109"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297546"
+              ],
+              "display_names": [
+                "Bank First Corp  (BFC)  (CIK 0001746109)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-17",
+              "biz_states": [
+                "WI"
+              ],
+              "sics": [
+                "6021"
+              ],
+              "form": "S-4",
+              "adsh": "0001104659-26-084686",
+              "film_num": [
+                "261184393"
+              ],
+              "biz_locations": [
+                "Manitowoc, WI"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "WI"
+              ],
+              "items": []
+            },
+            "sort": [
+              1784246400000,
+              "0001104659-26-084686:tm2620547-1_s4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-084682:tm2618342-4_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000893847"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297082"
+              ],
+              "display_names": [
+                "HAWTHORN BANCSHARES, INC.  (HWBK)  (CIK 0000893847)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-17",
+              "biz_states": [
+                "MO"
+              ],
+              "sics": [
+                "6021"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001104659-26-084682",
+              "film_num": [
+                "261184353"
+              ],
+              "biz_locations": [
+                "Jefferson City, MO"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "MO"
+              ],
+              "items": []
+            },
+            "sort": [
+              1784246400000,
+              "0001104659-26-084682:tm2618342-4_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-084612:tm2619101-3_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001603923"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297275"
+              ],
+              "display_names": [
+                "Weatherford International plc  (WFRD)  (CIK 0001603923)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-17",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [
+                "3533"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001104659-26-084612",
+              "film_num": [
+                "261183703"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [],
+              "items": []
+            },
+            "sort": [
+              1784246400000,
+              "0001104659-26-084612:tm2619101-3_s4a.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Bank First Corp  (BFC)  (CIK 0001746109)",
+              "doc_count": 1
+            },
+            {
+              "key": "HAWTHORN BANCSHARES, INC.  (HWBK)  (CIK 0000893847)",
+              "doc_count": 1
+            },
+            {
+              "key": "Kuva Labs, Inc.  (CIK 0002117902)",
+              "doc_count": 1
+            },
+            {
+              "key": "LISATA THERAPEUTICS, INC.  (LSTA)  (CIK 0000320017)",
+              "doc_count": 1
+            },
+            {
+              "key": "Weatherford International plc  (WFRD)  (CIK 0001603923)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "6021",
+              "doc_count": 2
+            },
+            {
+              "key": "2834",
+              "doc_count": 1
+            },
+            {
+              "key": "3533",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "TX",
+              "doc_count": 2
+            },
+            {
+              "key": "MO",
+              "doc_count": 1
+            },
+            {
+              "key": "NJ",
+              "doc_count": 1
+            },
+            {
+              "key": "WI",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 3
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 1
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-17",
+                    "lte": "2026-07-17"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

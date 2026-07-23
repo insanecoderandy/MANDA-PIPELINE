@@ -1,0 +1,318 @@
+{
+  "date": "2026-07-06",
+  "pages": [
+    {
+      "took": 2219,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 3,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001829126-26-007231:blackhawk_s4a6.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002000775",
+                "0001993074"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-292402",
+                "333-292402-01"
+              ],
+              "display_names": [
+                "Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)",
+                "Vesicor Therapeutics, Inc.  (CIK 0001993074)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-06",
+              "biz_states": [
+                "CA"
+              ],
+              "sics": [
+                "2836",
+                "2836"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001829126-26-007231",
+              "film_num": [
+                "261153830",
+                "261153831"
+              ],
+              "biz_locations": [
+                "Danville, CA",
+                "San Gabriel, CA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "CA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783296000000,
+              "0001829126-26-007231:blackhawk_s4a6.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-296207:d132076ds4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002089271"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297273"
+              ],
+              "display_names": [
+                "Honeywell Aerospace Inc.  (HONA, HONAV)  (CIK 0002089271)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-06",
+              "biz_states": [
+                "AZ"
+              ],
+              "sics": [
+                "3724"
+              ],
+              "form": "S-4",
+              "adsh": "0001193125-26-296207",
+              "film_num": [
+                "261156110"
+              ],
+              "biz_locations": [
+                "Phoenix, AZ"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783296000000,
+              "0001193125-26-296207:d132076ds4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-080770:tm2619101-1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001603923"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297275"
+              ],
+              "display_names": [
+                "Weatherford International plc  (WFRD)  (CIK 0001603923)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-06",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [
+                "3533"
+              ],
+              "form": "S-4",
+              "adsh": "0001104659-26-080770",
+              "film_num": [
+                "261156280"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [],
+              "items": []
+            },
+            "sort": [
+              1783296000000,
+              "0001104659-26-080770:tm2619101-1_s4.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)",
+              "doc_count": 1
+            },
+            {
+              "key": "Honeywell Aerospace Inc.  (HONA, HONAV)  (CIK 0002089271)",
+              "doc_count": 1
+            },
+            {
+              "key": "Vesicor Therapeutics, Inc.  (CIK 0001993074)",
+              "doc_count": 1
+            },
+            {
+              "key": "Weatherford International plc  (WFRD)  (CIK 0001603923)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2836",
+              "doc_count": 1
+            },
+            {
+              "key": "3533",
+              "doc_count": 1
+            },
+            {
+              "key": "3724",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "AZ",
+              "doc_count": 1
+            },
+            {
+              "key": "CA",
+              "doc_count": 1
+            },
+            {
+              "key": "TX",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 3
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-06",
+                    "lte": "2026-07-06"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

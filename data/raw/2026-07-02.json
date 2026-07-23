@@ -1,0 +1,734 @@
+{
+  "date": "2026-07-02",
+  "pages": [
+    {
+      "took": 466,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 10,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001829126-26-007196:wintergreenacq_s4a1.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002053927",
+                "0002099129"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295118",
+                "333-295118-01"
+              ],
+              "display_names": [
+                "Wintergreen Acquisition Corp.  (WTG, WTGUR, WTGUU)  (CIK 0002053927)",
+                "KIKA Technology INC.  (CIK 0002099129)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [],
+              "sics": [
+                "7370",
+                "7370"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001829126-26-007196",
+              "film_num": [
+                "261149699",
+                "261149700"
+              ],
+              "biz_locations": [
+                "Tongzhou District, Beijing",
+                "Hong Kong"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "E9",
+                "E9"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001829126-26-007196:wintergreenacq_s4a1.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-031864:forms-4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000720762"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297229"
+              ],
+              "display_names": [
+                "NON INVASIVE MONITORING SYSTEMS INC /FL/  (NIMU)  (CIK 0000720762)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "FL"
+              ],
+              "sics": [
+                "3760"
+              ],
+              "form": "S-4",
+              "adsh": "0001493152-26-031864",
+              "film_num": [
+                "261150746"
+              ],
+              "biz_locations": [
+                "Miami Beach, FL"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "FL"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001493152-26-031864:forms-4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-031763:forms-4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002026767",
+                "0002129752"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296926",
+                "333-296926-01"
+              ],
+              "display_names": [
+                "Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)",
+                "Goodvision AI Inc.  (CIK 0002129752)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "NY",
+                "CA"
+              ],
+              "sics": [
+                "7374",
+                "6770"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001493152-26-031763",
+              "film_num": [
+                "261149931",
+                "261149932"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Fremont, CA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "E9",
+                "E9"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001493152-26-031763:forms-4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-075095:ea0292090-02.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001840856"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296284"
+              ],
+              "display_names": [
+                "SOUNDHOUND AI, INC.  (SOUN, SOUNW)  (CIK 0001840856)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "DE"
+              ],
+              "sics": [
+                "7372"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001213900-26-075095",
+              "film_num": [
+                "261153064"
+              ],
+              "biz_locations": [
+                "Claymont, DE"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "REGISTRATION STATEMENT",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001213900-26-075095:ea0292090-02.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-294465:d127943ds4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000074303"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297236"
+              ],
+              "display_names": [
+                "OLIN Corp  (OLN)  (CIK 0000074303)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "MO"
+              ],
+              "sics": [
+                "2800"
+              ],
+              "form": "S-4",
+              "adsh": "0001193125-26-294465",
+              "film_num": [
+                "261151013"
+              ],
+              "biz_locations": [
+                "Clayton, MO"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "VA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001193125-26-294465:d127943ds4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-294455:d131177ds4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001728328"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297234"
+              ],
+              "display_names": [
+                "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "A1"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "S-4",
+              "adsh": "0001193125-26-294455",
+              "film_num": [
+                "261150911"
+              ],
+              "biz_locations": [
+                "Vancouver, A1"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "A1"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001193125-26-294455:d131177ds4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-293486:d52416ds4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000903129"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297224"
+              ],
+              "display_names": [
+                "Gentherm Inc  (THRM)  (CIK 0000903129)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "MI"
+              ],
+              "sics": [
+                "3714"
+              ],
+              "form": "S-4",
+              "adsh": "0001193125-26-293486",
+              "film_num": [
+                "261147779"
+              ],
+              "biz_locations": [
+                "Novi, MI"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "MI"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001193125-26-293486:d52416ds4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-293383:d117787ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002130606"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295249"
+              ],
+              "display_names": [
+                "Gazelle Parent, Inc.  (OBX)  (CIK 0002130606)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "MA"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-293383",
+              "film_num": [
+                "261147668"
+              ],
+              "biz_locations": [
+                "Cambridge, MA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001193125-26-293383:d117787ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-080321:tm2533703-19_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001785424"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296909"
+              ],
+              "display_names": [
+                "Katapult Holdings, Inc.  (KPLT)  (CIK 0001785424)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "NY"
+              ],
+              "sics": [
+                "7359"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001104659-26-080321",
+              "film_num": [
+                "261151133"
+              ],
+              "biz_locations": [
+                "New York, NY"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001104659-26-080321:tm2533703-19_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-079973:tm2618951-1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002134688"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297217"
+              ],
+              "display_names": [
+                "New Slider Holdco, Inc.  (CIK 0002134688)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-02",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [],
+              "form": "S-4",
+              "adsh": "0001104659-26-079973",
+              "film_num": [
+                "261147259"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1782950400000,
+              "0001104659-26-079973:tm2618951-1_s4.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)",
+              "doc_count": 1
+            },
+            {
+              "key": "Gazelle Parent, Inc.  (OBX)  (CIK 0002130606)",
+              "doc_count": 1
+            },
+            {
+              "key": "Gentherm Inc  (THRM)  (CIK 0000903129)",
+              "doc_count": 1
+            },
+            {
+              "key": "Goodvision AI Inc.  (CIK 0002129752)",
+              "doc_count": 1
+            },
+            {
+              "key": "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)",
+              "doc_count": 1
+            },
+            {
+              "key": "KIKA Technology INC.  (CIK 0002099129)",
+              "doc_count": 1
+            },
+            {
+              "key": "Katapult Holdings, Inc.  (KPLT)  (CIK 0001785424)",
+              "doc_count": 1
+            },
+            {
+              "key": "NON INVASIVE MONITORING SYSTEMS INC /FL/  (NIMU)  (CIK 0000720762)",
+              "doc_count": 1
+            },
+            {
+              "key": "New Slider Holdco, Inc.  (CIK 0002134688)",
+              "doc_count": 1
+            },
+            {
+              "key": "OLIN Corp  (OLN)  (CIK 0000074303)",
+              "doc_count": 1
+            },
+            {
+              "key": "SOUNDHOUND AI, INC.  (SOUN, SOUNW)  (CIK 0001840856)",
+              "doc_count": 1
+            },
+            {
+              "key": "Wintergreen Acquisition Corp.  (WTG, WTGUR, WTGUU)  (CIK 0002053927)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2834",
+              "doc_count": 2
+            },
+            {
+              "key": "2800",
+              "doc_count": 1
+            },
+            {
+              "key": "3714",
+              "doc_count": 1
+            },
+            {
+              "key": "3760",
+              "doc_count": 1
+            },
+            {
+              "key": "6770",
+              "doc_count": 1
+            },
+            {
+              "key": "7359",
+              "doc_count": 1
+            },
+            {
+              "key": "7370",
+              "doc_count": 1
+            },
+            {
+              "key": "7372",
+              "doc_count": 1
+            },
+            {
+              "key": "7374",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "NY",
+              "doc_count": 2
+            },
+            {
+              "key": "A1",
+              "doc_count": 1
+            },
+            {
+              "key": "CA",
+              "doc_count": 1
+            },
+            {
+              "key": "DE",
+              "doc_count": 1
+            },
+            {
+              "key": "FL",
+              "doc_count": 1
+            },
+            {
+              "key": "MA",
+              "doc_count": 1
+            },
+            {
+              "key": "MI",
+              "doc_count": 1
+            },
+            {
+              "key": "MO",
+              "doc_count": 1
+            },
+            {
+              "key": "TX",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 10
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-02",
+                    "lte": "2026-07-02"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

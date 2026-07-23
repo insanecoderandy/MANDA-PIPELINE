@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-08",
+  "pages": [
+    {
+      "took": 86,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 4,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-076371:ea0292090-03.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001840856"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296284"
+              ],
+              "display_names": [
+                "SOUNDHOUND AI, INC.  (SOUN, SOUNW)  (CIK 0001840856)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-08",
+              "biz_states": [
+                "DE"
+              ],
+              "sics": [
+                "7372"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001213900-26-076371",
+              "film_num": [
+                "261162514"
+              ],
+              "biz_locations": [
+                "Claymont, DE"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "REGISTRATION STATEMENT",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783468800000,
+              "0001213900-26-076371:ea0292090-03.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001206264-26-000087:sgis-4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001206264"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296998"
+              ],
+              "display_names": [
+                "SOMNIGROUP INTERNATIONAL INC.  (SGI)  (CIK 0001206264)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-08",
+              "biz_states": [
+                "KY"
+              ],
+              "sics": [
+                "2510"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001206264-26-000087",
+              "film_num": [
+                "261162474"
+              ],
+              "biz_locations": [
+                "Lexington, KY"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783468800000,
+              "0001206264-26-000087:sgis-4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-081818:tm2620046d3_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-08",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-081818",
+              "film_num": [
+                "261162820"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783468800000,
+              "0001104659-26-081818:tm2620046d3_sctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-081696:tm2620046d1_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-08",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-081696",
+              "film_num": [
+                "261161323"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783468800000,
+              "0001104659-26-081696:tm2620046d1_sctota.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "DIANA SHIPPING INC.  (CIK 0001318885)",
+              "doc_count": 2
+            },
+            {
+              "key": "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+              "doc_count": 2
+            },
+            {
+              "key": "SOMNIGROUP INTERNATIONAL INC.  (SGI)  (CIK 0001206264)",
+              "doc_count": 1
+            },
+            {
+              "key": "SOUNDHOUND AI, INC.  (SOUN, SOUNW)  (CIK 0001840856)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "4412",
+              "doc_count": 2
+            },
+            {
+              "key": "2510",
+              "doc_count": 1
+            },
+            {
+              "key": "7372",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "J3",
+              "doc_count": 2
+            },
+            {
+              "key": "NY",
+              "doc_count": 2
+            },
+            {
+              "key": "DE",
+              "doc_count": 1
+            },
+            {
+              "key": "KY",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 2
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 2
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-08",
+                    "lte": "2026-07-08"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

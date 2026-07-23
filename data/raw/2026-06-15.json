@@ -1,0 +1,575 @@
+{
+  "date": "2026-06-15",
+  "pages": [
+    {
+      "took": 396,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 7,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-068462:ea0293749-s4a1_eureka.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002000410",
+                "0002100989"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295483",
+                "333-295483-01"
+              ],
+              "display_names": [
+                "Eureka Acquisition Corp  (EURK, EURKR, EURKU)  (CIK 0002000410)",
+                "Marine Thinking Inc.  (CIK 0002100989)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [],
+              "sics": [
+                "4400"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001213900-26-068462",
+              "film_num": [
+                "261088809",
+                "261088810"
+              ],
+              "biz_locations": [
+                "Singapore",
+                "Halifax"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "AMENDMENT NO. 1 TO FORM S-4",
+              "inc_states": [
+                "E9",
+                "A5"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001213900-26-068462:ea0293749-s4a1_eureka.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-068446:ea0294087-01.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002019793"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296774"
+              ],
+              "display_names": [
+                "XCF Global, Inc.  (SAFX)  (CIK 0002019793)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [
+                "2860"
+              ],
+              "form": "S-4",
+              "adsh": "0001213900-26-068446",
+              "film_num": [
+                "261088708"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4",
+              "file_description": "REGISTRATION STATEMENT",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001213900-26-068446:ea0294087-01.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-068421:ea0254217-17.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002086412",
+                "0002086411"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295712",
+                "333-295712-01"
+              ],
+              "display_names": [
+                "DRC Medicine Inc.  (CIK 0002086412)",
+                "DRC Medicine Ltd.  (CIK 0002086411)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "NY"
+              ],
+              "sics": [
+                "2836",
+                "2836"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001213900-26-068421",
+              "film_num": [
+                "261088358",
+                "261088359"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Tokyo"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "REGISTRATION STATEMENT",
+              "inc_states": [
+                "DE",
+                "M0"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001213900-26-068421:ea0254217-17.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-270338:d115497ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002129192"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295565"
+              ],
+              "display_names": [
+                "Mountain Holding, Inc.  (CIK 0002129192)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "TX"
+              ],
+              "sics": [
+                "6311"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-270338",
+              "film_num": [
+                "261089132"
+              ],
+              "biz_locations": [
+                "Houston, TX"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001193125-26-270338:d115497ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-025271:ny20074422x2_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000946673"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296472"
+              ],
+              "display_names": [
+                "BANNER CORP  (BANR)  (CIK 0000946673)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "WA"
+              ],
+              "sics": [
+                "6022"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001140361-26-025271",
+              "film_num": [
+                "261092090"
+              ],
+              "biz_locations": [
+                "Walla Walla, WA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "WA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001140361-26-025271:ny20074422x2_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-025134:ny20072853x8_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001422183",
+                "0001835052"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-85264"
+              ],
+              "display_names": [
+                "FS KKR Capital Corp  (FSK)  (CIK 0001422183)",
+                "KKR Alternative Assets L.P.  (CIK 0001835052)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "PA",
+                "CA"
+              ],
+              "sics": [],
+              "form": "SC TO-T/A",
+              "adsh": "0001140361-26-025134",
+              "film_num": [
+                "261089178"
+              ],
+              "biz_locations": [
+                "Philadelphia, PA",
+                "San Francisco, CA"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "MD",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001140361-26-025134:ny20072853x8_sctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-073893:tm2612953d42_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001326200",
+                "0001318885"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-81128"
+              ],
+              "display_names": [
+                "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+                "DIANA SHIPPING INC.  (CIK 0001318885)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-06-15",
+              "biz_states": [
+                "NY",
+                "J3"
+              ],
+              "sics": [
+                "4412",
+                "4412"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001104659-26-073893",
+              "film_num": [
+                "261089540"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Athens, J3"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "1T"
+              ],
+              "items": []
+            },
+            "sort": [
+              1781481600000,
+              "0001104659-26-073893:tm2612953d42_sctota.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "BANNER CORP  (BANR)  (CIK 0000946673)",
+              "doc_count": 1
+            },
+            {
+              "key": "DIANA SHIPPING INC.  (CIK 0001318885)",
+              "doc_count": 1
+            },
+            {
+              "key": "DRC Medicine Inc.  (CIK 0002086412)",
+              "doc_count": 1
+            },
+            {
+              "key": "DRC Medicine Ltd.  (CIK 0002086411)",
+              "doc_count": 1
+            },
+            {
+              "key": "Eureka Acquisition Corp  (EURK, EURKR, EURKU)  (CIK 0002000410)",
+              "doc_count": 1
+            },
+            {
+              "key": "FS KKR Capital Corp  (FSK)  (CIK 0001422183)",
+              "doc_count": 1
+            },
+            {
+              "key": "GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)",
+              "doc_count": 1
+            },
+            {
+              "key": "KKR Alternative Assets L.P.  (CIK 0001835052)",
+              "doc_count": 1
+            },
+            {
+              "key": "Marine Thinking Inc.  (CIK 0002100989)",
+              "doc_count": 1
+            },
+            {
+              "key": "Mountain Holding, Inc.  (CIK 0002129192)",
+              "doc_count": 1
+            },
+            {
+              "key": "XCF Global, Inc.  (SAFX)  (CIK 0002019793)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2836",
+              "doc_count": 1
+            },
+            {
+              "key": "2860",
+              "doc_count": 1
+            },
+            {
+              "key": "4400",
+              "doc_count": 1
+            },
+            {
+              "key": "4412",
+              "doc_count": 1
+            },
+            {
+              "key": "6022",
+              "doc_count": 1
+            },
+            {
+              "key": "6311",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "NY",
+              "doc_count": 2
+            },
+            {
+              "key": "TX",
+              "doc_count": 2
+            },
+            {
+              "key": "CA",
+              "doc_count": 1
+            },
+            {
+              "key": "J3",
+              "doc_count": 1
+            },
+            {
+              "key": "PA",
+              "doc_count": 1
+            },
+            {
+              "key": "WA",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 5
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 2
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-06-15",
+                    "lte": "2026-06-15"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

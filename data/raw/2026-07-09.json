@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-09",
+  "pages": [
+    {
+      "took": 65,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 5,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001493152-26-032682:forms-4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001574235"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297342"
+              ],
+              "display_names": [
+                "Pulmatrix, Inc.  (PULM)  (CIK 0001574235)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-09",
+              "biz_states": [
+                "MA"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "S-4",
+              "adsh": "0001493152-26-032682",
+              "film_num": [
+                "261165747"
+              ],
+              "biz_locations": [
+                "Framingham, MA"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783555200000,
+              "0001493152-26-032682:forms-4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-028129:ny20076479x2_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000906107"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297128"
+              ],
+              "display_names": [
+                "EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-09",
+              "biz_states": [
+                "IL"
+              ],
+              "sics": [
+                "6798"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001140361-26-028129",
+              "film_num": [
+                "261166382"
+              ],
+              "biz_locations": [
+                "Chicago, IL"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "MD"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783555200000,
+              "0001140361-26-028129:ny20076479x2_s4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-082301:tm2614888-13_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000753308"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297351"
+              ],
+              "display_names": [
+                "NEXTERA ENERGY INC  (NEE, NEE-PN, NEE-PS, NEE-PT, NEE-PU, NEE-PV, NEE-PW)  (CIK 0000753308)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-09",
+              "biz_states": [
+                "FL"
+              ],
+              "sics": [
+                "4911"
+              ],
+              "form": "S-4",
+              "adsh": "0001104659-26-082301",
+              "film_num": [
+                "261166371"
+              ],
+              "biz_locations": [
+                "Juno Beach, FL"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "FL"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783555200000,
+              "0001104659-26-082301:tm2614888-13_s4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-082258:tm2618680-1_s4.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000064040",
+                "0001655668"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297343",
+                "333-297343-01"
+              ],
+              "display_names": [
+                "S&P Global Inc.  (SPGI)  (CIK 0000064040)",
+                "Standard & Poor's Financial Services LLC  (CIK 0001655668)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-09",
+              "biz_states": [
+                "NY"
+              ],
+              "sics": [
+                "7320",
+                "7320"
+              ],
+              "form": "S-4",
+              "adsh": "0001104659-26-082258",
+              "film_num": [
+                "261165785",
+                "261165786"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "New York, NY"
+              ],
+              "file_type": "S-4",
+              "file_description": "S-4",
+              "inc_states": [
+                "NY",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783555200000,
+              "0001104659-26-082258:tm2618680-1_s4.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001104659-26-082024:tm2533318-16_s4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002100848"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-296444"
+              ],
+              "display_names": [
+                "Versa Bancorp  (CIK 0002100848)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-09",
+              "biz_states": [],
+              "sics": [
+                "6029"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001104659-26-082024",
+              "film_num": [
+                "261163830"
+              ],
+              "biz_locations": [
+                "London"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783555200000,
+              "0001104659-26-082024:tm2533318-16_s4a.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)",
+              "doc_count": 1
+            },
+            {
+              "key": "NEXTERA ENERGY INC  (NEE, NEE-PN, NEE-PS, NEE-PT, NEE-PU, NEE-PV, NEE-PW)  (CIK 0000753308)",
+              "doc_count": 1
+            },
+            {
+              "key": "Pulmatrix, Inc.  (PULM)  (CIK 0001574235)",
+              "doc_count": 1
+            },
+            {
+              "key": "S&P Global Inc.  (SPGI)  (CIK 0000064040)",
+              "doc_count": 1
+            },
+            {
+              "key": "Standard & Poor's Financial Services LLC  (CIK 0001655668)",
+              "doc_count": 1
+            },
+            {
+              "key": "Versa Bancorp  (CIK 0002100848)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2834",
+              "doc_count": 1
+            },
+            {
+              "key": "4911",
+              "doc_count": 1
+            },
+            {
+              "key": "6029",
+              "doc_count": 1
+            },
+            {
+              "key": "6798",
+              "doc_count": 1
+            },
+            {
+              "key": "7320",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "FL",
+              "doc_count": 1
+            },
+            {
+              "key": "IL",
+              "doc_count": 1
+            },
+            {
+              "key": "MA",
+              "doc_count": 1
+            },
+            {
+              "key": "NY",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 5
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-09",
+                    "lte": "2026-07-09"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

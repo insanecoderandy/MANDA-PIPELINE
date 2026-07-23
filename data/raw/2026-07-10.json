@@ -1,0 +1,513 @@
+{
+  "date": "2026-07-10",
+  "pages": [
+    {
+      "took": 3654,
+      "timed_out": false,
+      "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 6,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "edgar_file",
+            "_id": "0001683168-26-005430:mccarthy_s4a2.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0002131882"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295888"
+              ],
+              "display_names": [
+                "McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "CO"
+              ],
+              "sics": [
+                "7374"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001683168-26-005430",
+              "film_num": [
+                "261166988"
+              ],
+              "biz_locations": [
+                "Niwot, CO"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "FORM S-4 AMENDMENT 2",
+              "inc_states": [
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001683168-26-005430:mccarthy_s4a2.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001213900-26-076841:ea0237057-10.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001882198",
+                "0002065462"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-286836",
+                "333-286836-01"
+              ],
+              "display_names": [
+                "Athena Technology Acquisition Corp. II  (ATEK, ATEKU, ATEKW)  (CIK 0001882198)",
+                "Ace Green Recycling, Inc.  (CIK 0002065462)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "NY",
+                "TX"
+              ],
+              "sics": [
+                "4955",
+                "4955"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001213900-26-076841",
+              "film_num": [
+                "261166634",
+                "261166635"
+              ],
+              "biz_locations": [
+                "New York, NY",
+                "Houston, TX"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "REGISTRATION STATEMENT",
+              "inc_states": [
+                "DE",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001213900-26-076841:ea0237057-10.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-300322:d308676dsctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001861560",
+                "0001131399"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-92743"
+              ],
+              "display_names": [
+                "Nuvalent, Inc.  (NUVL)  (CIK 0001861560)",
+                "GSK plc  (CIK 0001131399)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "MA"
+              ],
+              "sics": [
+                "2834",
+                "2834"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001193125-26-300322",
+              "film_num": [
+                "261167047"
+              ],
+              "biz_locations": [
+                "Cambridge, MA",
+                "London"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SC TO-T/A",
+              "inc_states": [
+                "DE",
+                "X0"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001193125-26-300322:d308676dsctota.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-300198:d127943ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000074303"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-297236"
+              ],
+              "display_names": [
+                "OLIN Corp  (OLN)  (CIK 0000074303)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "MO"
+              ],
+              "sics": [
+                "2800"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-300198",
+              "film_num": [
+                "261166920"
+              ],
+              "biz_locations": [
+                "Clayton, MO"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "VA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001193125-26-300198:d127943ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001193125-26-299933:d111069ds4a.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0001755237"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "333-295175"
+              ],
+              "display_names": [
+                "Cyclerion Therapeutics, Inc.  (CYCN)  (CIK 0001755237)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "S-4"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "MA"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "S-4/A",
+              "adsh": "0001193125-26-299933",
+              "film_num": [
+                "261166643"
+              ],
+              "biz_locations": [
+                "Cambridge, MA"
+              ],
+              "file_type": "S-4/A",
+              "file_description": "S-4/A",
+              "inc_states": [
+                "MA"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001193125-26-299933:d111069ds4a.htm"
+            ]
+          },
+          {
+            "_index": "edgar_file",
+            "_id": "0001140361-26-028238:ny20077391x1_sctota.htm",
+            "_score": null,
+            "_source": {
+              "ciks": [
+                "0000320017",
+                "0002117902"
+              ],
+              "period_ending": null,
+              "file_num": [
+                "005-34343"
+              ],
+              "display_names": [
+                "LISATA THERAPEUTICS, INC.  (LSTA)  (CIK 0000320017)",
+                "Kuva Labs, Inc.  (CIK 0002117902)"
+              ],
+              "xsl": null,
+              "sequence": 1,
+              "root_forms": [
+                "SC TO-T"
+              ],
+              "file_date": "2026-07-10",
+              "biz_states": [
+                "NJ",
+                "TX"
+              ],
+              "sics": [
+                "2834"
+              ],
+              "form": "SC TO-T/A",
+              "adsh": "0001140361-26-028238",
+              "film_num": [
+                "261169473"
+              ],
+              "biz_locations": [
+                "Basking Ridge, NJ",
+                "Houston, TX"
+              ],
+              "file_type": "SC TO-T/A",
+              "file_description": "SCHEDULE TO-T/A",
+              "inc_states": [
+                "DE",
+                "DE"
+              ],
+              "items": []
+            },
+            "sort": [
+              1783641600000,
+              "0001140361-26-028238:ny20077391x1_sctota.htm"
+            ]
+          }
+        ]
+      },
+      "aggregations": {
+        "entity_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "Ace Green Recycling, Inc.  (CIK 0002065462)",
+              "doc_count": 1
+            },
+            {
+              "key": "Athena Technology Acquisition Corp. II  (ATEK, ATEKU, ATEKW)  (CIK 0001882198)",
+              "doc_count": 1
+            },
+            {
+              "key": "Cyclerion Therapeutics, Inc.  (CYCN)  (CIK 0001755237)",
+              "doc_count": 1
+            },
+            {
+              "key": "GSK plc  (CIK 0001131399)",
+              "doc_count": 1
+            },
+            {
+              "key": "Kuva Labs, Inc.  (CIK 0002117902)",
+              "doc_count": 1
+            },
+            {
+              "key": "LISATA THERAPEUTICS, INC.  (LSTA)  (CIK 0000320017)",
+              "doc_count": 1
+            },
+            {
+              "key": "McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)",
+              "doc_count": 1
+            },
+            {
+              "key": "Nuvalent, Inc.  (NUVL)  (CIK 0001861560)",
+              "doc_count": 1
+            },
+            {
+              "key": "OLIN Corp  (OLN)  (CIK 0000074303)",
+              "doc_count": 1
+            }
+          ]
+        },
+        "sic_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "2834",
+              "doc_count": 3
+            },
+            {
+              "key": "2800",
+              "doc_count": 1
+            },
+            {
+              "key": "4955",
+              "doc_count": 1
+            },
+            {
+              "key": "7374",
+              "doc_count": 1
+            }
+          ]
+        },
+        "biz_states_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "MA",
+              "doc_count": 2
+            },
+            {
+              "key": "TX",
+              "doc_count": 2
+            },
+            {
+              "key": "CO",
+              "doc_count": 1
+            },
+            {
+              "key": "MO",
+              "doc_count": 1
+            },
+            {
+              "key": "NJ",
+              "doc_count": 1
+            },
+            {
+              "key": "NY",
+              "doc_count": 1
+            }
+          ]
+        },
+        "form_filter": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+            {
+              "key": "S-4",
+              "doc_count": 4
+            },
+            {
+              "key": "SC TO-T",
+              "doc_count": 2
+            }
+          ]
+        }
+      },
+      "query": {
+        "_source": {
+          "exclude": [
+            "doc_text"
+          ]
+        },
+        "query": {
+          "bool": {
+            "must": [],
+            "must_not": [],
+            "should": [],
+            "filter": [
+              {
+                "terms": {
+                  "root_forms": [
+                    "SC TO-T",
+                    "S-4"
+                  ]
+                }
+              },
+              {
+                "term": {
+                  "sequence": {
+                    "value": 1
+                  }
+                }
+              },
+              {
+                "range": {
+                  "file_date": {
+                    "gte": "2026-07-10",
+                    "lte": "2026-07-10"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+          "form_filter": {
+            "terms": {
+              "field": "root_forms",
+              "size": 30
+            }
+          },
+          "entity_filter": {
+            "terms": {
+              "field": "display_names.raw",
+              "size": 30
+            }
+          },
+          "sic_filter": {
+            "terms": {
+              "field": "sics",
+              "size": 30
+            }
+          },
+          "biz_states_filter": {
+            "terms": {
+              "field": "biz_states",
+              "size": 30
+            }
+          }
+        },
+        "sort": [
+          {
+            "file_date": {
+              "order": "desc"
+            }
+          },
+          {
+            "_id": {
+              "order": "desc"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
